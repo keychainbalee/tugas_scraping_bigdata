@@ -26,7 +26,7 @@ Proyek ini dibangun menggunakan bahasa pemrograman **Python** dengan pustaka pen
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/keychainbalee/tugas_scraping_bigdata.git](https://github.com/keychainbalee/tugas_scraping_bigdata.git)
+   git clone https://github.com/keychainbalee/tugas_scraping_bigdata.git
    cd tugas_scraping_bigdata
 Install Dependensi
 Pastikan Anda telah menginstal Python, kemudian jalankan:
